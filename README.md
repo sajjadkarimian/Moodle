@@ -4,7 +4,7 @@ This repository contains a collection of custom Moodle plugins developed to impr
 
 ## 📦 Available Plugins
 
-### 1. Courses by Category (`local_mycoursegroups`)
+### 1. Courses by Category (`local_MyGroupCourses_mycoursegroups`)
 An alternative course navigation interface that groups enrolled courses by category.
 
 ➡️ [View plugin documentation](./Local/MyGroupCourses/README.md)
